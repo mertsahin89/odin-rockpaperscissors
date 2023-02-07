@@ -44,4 +44,3 @@ function playGame(){
     alert("cpu score " + cpuScore );
 }
 
-playGame();
