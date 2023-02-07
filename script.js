@@ -5,7 +5,7 @@ function getCpuChoice(){
     let selectionList = ["rock", "paper", "scissor"]
     let cpuSelected = selectionList[Math.floor(Math.random() * selectionList.length)];
     alert("cpu chooses " + cpuSelected);
-    return(cpuSelected);
+    return cpuSelected;
 }
 
 function getPlayerChoice() {
