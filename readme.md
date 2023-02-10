@@ -1,1 +1,1 @@
-# Rock Paper Scissors barebone from The Odin Project
+# Rock Paper Scissors from The Odin Project
