@@ -37,21 +37,7 @@ function getCpuChoice(){
         let element = elementToChange;
         element.classList.add("selected");
     }
-//function getPlayerChoice() {
-    
-    //for (let index = 0; index < playerButtons.length; index++) {
-       // playerButtons[index].addEventListener("click", function(){
-            //return
-      //  });
-        
-   // }
 
-    //let choice = prompt("choose rock, paper, scissor");
-    //let choiceLowerCase = choice.toLowerCase();
-    //alert("you choose " + choiceLowerCase);
-    // return choiceLowerCase;
-    
-//}
 
 function playRound(playerchoice, cpuchoice){
     
@@ -104,13 +90,4 @@ function checkGameEnd(playerScore, cpuScore){
 }
 
 
-//function playGame(){
-    //for (let index = 0; index < 5; index++) {
-       // playRound(getPlayerChoice(), getCpuChoice());
-       // console.log(cpuScore , playerScore);
-        
-   // }
-   // alert("your score " + playerScore);
-    //alert("cpu score " + cpuScore );
-//}
 
